@@ -1,6 +1,8 @@
-# 3EquationsSolver
+3EquationsSolver
 
-My first mathy project,it solves 3 linear equations with 3 variables using gussian elimination (matrices) and the code is unfortunately brute forcing it because im still not used to coding (only 1 month in it) but i see this as a big jump,hope you like it and leave some advices if you can besically what it does is puting the coeffecient of the 3 variables of the 3 equations in a matrix called (the gussian matrix i think) and it look like this:
+My first mathy project! It solves 3 linear equations with 3 variables using Gaussian elimination (matrices). The code currently uses a brute-force approach, because I’m still new to coding (only 1 month in), but I see this as a big jump. I hope you like it, and any advice is welcome!
+
+Basically, what it does is put the coefficients of the 3 variables from the 3 equations into a matrix (the Gaussian matrix, I think), which looks like this:
 ```python
 [x11 y12 z13 | d1]
 [x21 y22 z23 | d2]
