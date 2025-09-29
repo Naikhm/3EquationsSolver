@@ -6,7 +6,9 @@ My first mathy project,it solves 3 linear equations with 3 variables using gussi
 [x21 y22 z23 | d2]
 [x31 x32 z33 | d3]
 where x,y,z are the coeffecint of each equation and the d1,d2,d3 are the answers of each equation.
-in the code because it was brute force i did the maath the way i did in school when we learnt it,and its by multipling rows by a certian number and adding the whole row to another row, this operatios has to be done untill the matrix is like:
+in the code because it was brute force i did the maath the way i did in school when we learnt it,
+and its by multipling rows by a certian number and adding the whole row to another row,
+this operatios has to be done untill the matrix is like:
 [x11 y12 z13 | d1]
 [ 0  y22 z23 | d2]
 [ 0   0  z33 | d3]
